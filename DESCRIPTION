@@ -1,0 +1,16 @@
+Package: scatlasR
+Title: Single-cell cell type annotation using R
+Version: 0.1
+Description: Cell type annotation for single cell data.
+Author: Hua Sun [aut,cre]
+Maintainer: Hua Sun <hua.sun229@gmail.com>
+License: MIT + file LICENSE
+Depends:
+    R (>= 4.2.1)
+Imports:
+    Seurat (>= 5.1.0),
+    dplyr,
+    HGNChelper,
+    readxl
+Encoding: UTF-8
+RoxygenNote: 7.3.2
