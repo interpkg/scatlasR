@@ -2,6 +2,7 @@
 
 export(CompareMarkersByPublicDB)
 export(FilterMarkers_SeuratForm)
+export(MarkerDB)
 export(RunFindAllMarkers)
 export(ScTypeAnnotation)
 export(SeuratAddScore)
